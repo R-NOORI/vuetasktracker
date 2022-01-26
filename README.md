@@ -1,4 +1,4 @@
-# vue-crash-course
+# simple task tracker app in vuejs
 
 ## Project setup
 ```
